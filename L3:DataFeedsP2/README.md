@@ -1,3 +1,11 @@
 # DATA FEEDS PART 2
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+## MULTIPLE DATA
+
+![alt text](image-2.png)
+
 ---
